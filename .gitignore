@@ -1,5 +1,6 @@
 *.DS_Store*
-Codes/checkpoints/*
+*checkpoints*
+*summary*
 Codes/show_pred_flow_results.ipynb
 ano_pred_2018_cvpr.pdf
 .idea/webServers.xml
